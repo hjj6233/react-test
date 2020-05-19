@@ -38,7 +38,7 @@ class LoginItem extends Component {
     }
     return (
       <div id="loginContainer">
-        <h3 className="text-center">系统登录123</h3>
+        <h3 className="text-center">系统登录master</h3>
         <Form
           {...layout}
           ref={this.formRef}
